@@ -1,0 +1,7 @@
+# Local research notes — never push these to the public profile repo
+research/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp

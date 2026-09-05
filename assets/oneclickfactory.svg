@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-label="OneClickFactory">
+  <!-- PLACEHOLDER: replace with the real OneClickFactory hero SVG -->
+  <rect x="0.5" y="0.5" width="719" height="179" rx="16" fill="#0b0f19" stroke="#1f2937"/>
+  <text x="360" y="86" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="44" font-weight="700" fill="#e5e7eb">OneClickFactory</text>
+  <text x="360" y="122" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#9ca3af">automated 3D printing · placeholder svg</text>
+</svg>

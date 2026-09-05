@@ -12,14 +12,15 @@
 
 ## I'm a OneClickAI dev.
 
-When labor is dead, learning interesting things will survive.  
-So we built OneClickAI, teaching everyone about AI, using AI, because of AI.  
+When labor is dead, learning will survive.  
+So we built OneClickAI, an education service.  
+Teaching everyone about AI, using AI, because of AI.  
 The world is changing fast, and we are the ones to change it.
 
 > “Education is the most powerful weapon which you can use to change the world.”  
-> — Nelson Mandela
+> <sub>— Nelson Mandela</sub>
 
-<div align="center"><a href="https://oneclickai.co.kr"><b>oneclickai.co.kr →</b></a></div>
+<div align="center"><a href="https://oneclickai.co.kr"><code>oneclickai.co.kr →</code></a></div>
 
 <br>
 <br>
@@ -41,9 +42,9 @@ We want to help bring those ideas into reality, in the real world.
 So we built OneClickFactory, a cheap, automated 3D printing service.
 
 > “I hear and I forget. I see and I remember. I do and I understand.”  
-> — Confucius (maybe)
+> <sub>— Confucius (maybe)</sub>
 
-<div align="center"><a href="https://oneclickfactory.co.kr"><b>oneclickfactory.co.kr →</b></a></div>
+<div align="center"><a href="https://oneclickfactory.co.kr"><code>oneclickfactory.co.kr →</code></a></div>
 
 <br>
 <br>

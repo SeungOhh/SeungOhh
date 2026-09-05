@@ -22,6 +22,11 @@ The world is changing fast, and we are the ones to change it.
 <div align="center"><a href="https://oneclickai.co.kr"><b>oneclickai.co.kr →</b></a></div>
 
 <br>
+<br>
+
+---
+
+<br>
 
 <div align="center">
   <a href="https://oneclickfactory.co.kr">
@@ -39,6 +44,11 @@ So we built OneClickFactory, a cheap, automated 3D printing service.
 > — Confucius (maybe)
 
 <div align="center"><a href="https://oneclickfactory.co.kr"><b>oneclickfactory.co.kr →</b></a></div>
+
+<br>
+<br>
+
+---
 
 <br>
 

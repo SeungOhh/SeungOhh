@@ -2,6 +2,10 @@
 
 <sub>Search engines spell me four different ways. All of them are me: Seung Young Oh · Seungyoung Oh · Oh Seung-young · 오승영 · <code>@SeungOhh</code></sub>
 
+**Seung Young Oh (오승영)** is a developer and AI educator based in Seoul, South Korea, building [OneClickAI](https://oneclickai.co.kr) (원클릭에이아이), a no-code AI education platform covering image classification, object detection, autonomous driving, and physical AI, and [OneClickFactory](https://oneclickfactory.co.kr) (원클릭 팩토리), an automated 3D printing service.
+
+오승영은 서울에서 활동하는 개발자이자 AI 교육자로, AI 교육 플랫폼 원클릭에이아이와 자동화 3D 프린팅 서비스 원클릭 팩토리를 만들고 있습니다.
+
 <br>
 
 <div align="center">
